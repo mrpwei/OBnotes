@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "196de5143801be30",
+        "id": "1ffdd4424451a667",
         "type": "tabs",
         "children": [
           {
-            "id": "aae48247fe0d2720",
+            "id": "111dbb88788f2f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/面试/01 HTML面试题.md",
+                "file": "Code/React/虚拟DOM与React18新的渲染写法.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/面试/01 HTML面试题.md"
+                "file": "Code/React/虚拟DOM与React18新的渲染写法.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/面试/01 HTML面试题.md",
+                "file": "Code/React/虚拟DOM与React18新的渲染写法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/面试/01 HTML面试题.md",
+                "file": "Code/React/虚拟DOM与React18新的渲染写法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,10 +188,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "aae48247fe0d2720",
+  "active": "111dbb88788f2f7f",
   "lastOpenFiles": [
-    "Code/面试/HTML5的新特性.md",
+    "开始.md",
+    "包管理器.md",
+    "路由配置.md",
+    "README.md",
+    "git网络问题.md",
+    "Code/Git教程.md",
+    "Blog/Git.md",
+    "01 Start Here.md",
+    "readme.md",
+    "Code/面试/https.md",
+    "Code/nodejs开发博客/接口/01 http概述.md",
     "Code/面试/01 HTML面试题.md",
+    "Code/面试/HTML5的新特性.md",
     "Code/面试/session，cookie和token的区别.md",
     "Code/面试/块级元素和行内元素.md",
     "Code/面试/vault/localStorage、sessionStorage的区别.md",
@@ -199,23 +210,12 @@
     "Code/Vue/03 Vuex和VueRouter/Vuex状态管理如何使用TS.md",
     "Tasks.md",
     "Code/Vue/03 Vuex和VueRouter/Vuex和VueRouter任务列表综合案例.md",
-    "01 Start Here.md",
     "Code/React/什么是JSX及JSX详细使用方式（一）.md",
     "Code/面试/手写题.md",
     "Code/React/虚拟DOM与React18新的渲染写法.md",
     "Code/面试/http 1、2、3 的区别.md",
     "Code/Vue/02 Composition API/04 复用组件功能之use函数.md",
     "Code/Vue/02 Composition API/02 生命周期、watch.md",
-    "Code/面试/其他面试题.md",
-    "Code/Vue/02 Composition API/03 跨组件通信provide_inject.md",
-    "配置vite自动按需引入vant组件.md",
-    "02 Read and Write Files.md",
-    "包管理器.md",
-    "项目初始化配置.md",
-    "页面头部实现.md",
-    "Daily Notes/2022-03-07.md",
-    "Daily Notes/2022-03-02.md",
-    "Daily Notes/2022-02-25.md",
     "未命名.canvas",
     "Excalidraw/assets/Pasted Image 20230522110841_891.png",
     "assets/Pasted image 20230506154035.png",
