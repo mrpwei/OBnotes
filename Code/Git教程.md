@@ -39,10 +39,10 @@ git branch --set-upstream-to origin/newName
 ##  amend
 
 
-删除远程仓库的文件
+删除加入ignore 文件之前已经提交远程仓库的文件
 
 ```bash
 git rm -r --cached target-directory
-git commit -m 'Remove the now ignored directory "some-directory"'
+git commit -m 'Remove "target-directory"'
 git push origin master
 ```
