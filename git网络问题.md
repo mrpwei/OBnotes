@@ -27,3 +27,10 @@ fatal: unable to access 'https://github.com/mrpwei/OBnotes.git/': LibreSSL SSL_c
 git config --global http.proxy socks5://127.0.0.1:7890 
 git config --global https.proxy socks5://127.0.0.1:7890
 ```
+
+取消代理：
+
+```bash
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+```
