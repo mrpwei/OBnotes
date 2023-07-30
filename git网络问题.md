@@ -2,6 +2,8 @@
 fatal: unable to access 'https://github.com/mrpwei/OBnotes.git/': Failed to connect to github.com port 443: Operation timed out
 ```
 
+这是因为 git 没有走 clash 的代理端口。
+
 在设置中搜索代理，找到代理服务器端口
 ![image.png](https://imgbed-1305223678.cos.ap-guangzhou.myqcloud.com/20230730141202.png)
 
