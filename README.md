@@ -1,3 +1,3 @@
-This is my Obsidian vault.
+This is my Obsidian vault 🗳
 
 
