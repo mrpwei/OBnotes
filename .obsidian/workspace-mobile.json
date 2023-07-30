@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "152c60d1d3a7d9ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d76d2ae50e02948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78eb5e6903cfbf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目初始化配置.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8672a34d985367b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "770a33e1e2e61467",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ed1464fc13bbe331",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1e060b0c078fd358",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4f7dc52e0283fa7e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "d0b55028735c211f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "14bd79bf1ba68681",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a48b9f05d08971f9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "项目初始化配置.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b87d85615a02e5bd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "项目初始化配置.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eb16c70fa1869a10",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "项目初始化配置.md"
+          }
+        }
+      },
+      {
+        "id": "43e30d746b0be1fb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "78eb5e6903cfbf03",
+  "lastOpenFiles": [
+    "包管理器.md",
+    "Daily Notes/2022-03-09.md",
+    "Daily Notes/2023-02-21.md",
+    "Code/Vue/03 Vuex和VueRouter/Vuex状态管理如何使用TS.md",
+    "Code/面试/vault/localStorage、sessionStorage的区别.md",
+    "Code/Vue/03 Vuex和VueRouter/Vuex和VueRouter任务列表综合案例.md",
+    "Code/React/虚拟DOM与React18新的渲染写法.md",
+    "Code/面试/HTML5的新特性.md",
+    "Code/TypeScript/基础/03 类型分类、联合类型与交叉类型.md",
+    "Code/面试/session，cookie和token的区别.md",
+    "Code/面试/01 HTML面试题.md",
+    "Blog/Obsidian配置.md",
+    "Excalidraw/Drawing 2023-05-28 15.27.57.excalidraw.md",
+    "Blog/Git.md",
+    "Code/React/什么是JSX及JSX详细使用方式（一）.md",
+    "YouTube项目.md",
+    "Code/TypeScript/基础/01 为什么使用TS和TS运行环境搭建.md",
+    "Code/面试/https.md",
+    "Code/面试/vault/BFC(面试版).md",
+    "Code/面试/http 1、2、3 的区别.md",
+    "配置vite自动按需引入vant组件.md",
+    "Tasks.md",
+    "Code/面试/02 CSS面试题.md",
+    "Code/面试/块级元素和行内元素.md",
+    "Code/TypeScript/基础/02 类型声明空间与变量声明空间.md",
+    "localStorage.md",
+    "未命名.canvas",
+    "很好.canvas",
+    "assets/Pasted image 20230322155326.png",
+    "Code/Vue/03 Vuex和VueRouter/assets/09-03-ElmentPlus组件名提示.png"
+  ]
+}

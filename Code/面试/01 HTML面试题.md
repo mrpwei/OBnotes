@@ -1,0 +1,6 @@
+-   [[localStorage、sessionStorage的区别]] #高频
+- [[session，cookie和token的区别]] #高频 
+-   [[HTML5的新特性]]有哪些
+-   `meta` 标签都包含哪些使用方法
+- [[块级元素和行内元素]]
+-   语义化标签有哪些

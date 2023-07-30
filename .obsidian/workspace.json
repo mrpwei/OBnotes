@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "2d9c6529c65d7ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "196de5143801be30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae48247fe0d2720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/面试/01 HTML面试题.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d66e87d9090d2bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "27185ae984dd2168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9051643a6671aba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4eefbf66097a048",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20d2def406d13d3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f76ca552c87a905",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "10bcbe943532bd2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "26bb144d872494af",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4389c90de6bcb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9e4b55e665dc8c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51112db570b144ae",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "76f83e62ff65cd64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code/面试/01 HTML面试题.md"
+              }
+            }
+          },
+          {
+            "id": "e5de1ad4b22fe953",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8bcc818a64506829",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfeb830a2a213cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code/面试/01 HTML面试题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e007a0053b58d60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code/面试/01 HTML面试题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "graph:查看关系图谱": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "aae48247fe0d2720",
+  "lastOpenFiles": [
+    "Code/面试/HTML5的新特性.md",
+    "Code/面试/01 HTML面试题.md",
+    "Code/面试/session，cookie和token的区别.md",
+    "Code/面试/块级元素和行内元素.md",
+    "Code/面试/vault/localStorage、sessionStorage的区别.md",
+    "Code/nodejs开发博客/接口/07 开发博客列表路由.md",
+    "Code/Vue/03 Vuex和VueRouter/Vuex状态管理如何使用TS.md",
+    "Tasks.md",
+    "Code/Vue/03 Vuex和VueRouter/Vuex和VueRouter任务列表综合案例.md",
+    "01 Start Here.md",
+    "Code/React/什么是JSX及JSX详细使用方式（一）.md",
+    "Code/面试/手写题.md",
+    "Code/React/虚拟DOM与React18新的渲染写法.md",
+    "Code/面试/http 1、2、3 的区别.md",
+    "Code/Vue/02 Composition API/04 复用组件功能之use函数.md",
+    "Code/Vue/02 Composition API/02 生命周期、watch.md",
+    "Code/面试/其他面试题.md",
+    "Code/Vue/02 Composition API/03 跨组件通信provide_inject.md",
+    "配置vite自动按需引入vant组件.md",
+    "02 Read and Write Files.md",
+    "包管理器.md",
+    "项目初始化配置.md",
+    "页面头部实现.md",
+    "Daily Notes/2022-03-07.md",
+    "Daily Notes/2022-03-02.md",
+    "Daily Notes/2022-02-25.md",
+    "未命名.canvas",
+    "Excalidraw/assets/Pasted Image 20230522110841_891.png",
+    "assets/Pasted image 20230506154035.png",
+    "assets/Pasted image 20230322155326.png",
+    "assets/Pasted image 20230322155326的副本.png",
+    "Blog",
+    "Excalidraw/assets/Pasted Image 20230319173543_730.jpg",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "Excalidraw/assets",
+    "Excalidraw",
+    "Code/面试/vault",
+    "Code/React"
+  ]
+}

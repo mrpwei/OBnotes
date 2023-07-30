@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "textFontFamily": "PingFang SC",
+  "enabledCssSnippets": [
+    "table-content",
+    "mystyles",
+    "pre-language-type"
+  ],
+  "monospaceFontFamily": "Menlo,Source Code Pro"
+}

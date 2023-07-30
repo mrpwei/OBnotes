@@ -1,0 +1,26 @@
+/* pre中tag标签颜色 */
+/* .token.tag {
+  color: #0084bc;
+} */
+
+.markdown-rendered code,
+.cm-s-obsidian span.cm-inline-code {
+  background-color: var(--code-bg-color);
+  border-radius: 3px;
+  padding: 1px 2px 1px 2px;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  background-color: var(--pre-bg-color);
+}
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+  background-color: var(--pre-bg-color);
+}
+body:not(.no-codeblock-line-numbers)
+  .HyperMD-codeblock:not(
+    .HyperMD-codeblock-begin,
+    .HyperMD-codeblock-end
+  )::before {
+  background-color: var(--pre-bg-color);
+}

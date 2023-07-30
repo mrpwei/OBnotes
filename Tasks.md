@@ -1,0 +1,5 @@
+```dataview
+task
+WHERE !completed
+```
+
