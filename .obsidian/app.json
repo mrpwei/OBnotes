@@ -1,9 +1,0 @@
-{
-  "promptDelete": false,
-  "defaultViewMode": "preview",
-  "alwaysUpdateLinks": false,
-  "readableLineLength": true,
-  "newLinkFormat": "relative",
-  "attachmentFolderPath": "./assets",
-  "rightToLeft": false
-}
