@@ -4,6 +4,7 @@
 - 使用 `app.use` 注册组件
 
 ### Tree shaking
+
 - 移除无用的资源，包括 JS 代码、CSS 文件
 
 vant 自带 tree-shaking，但是 css 不支持，可以使用 `unplugin-vue-components` 插件按需引入组件样式：
