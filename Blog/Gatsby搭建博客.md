@@ -9,7 +9,7 @@
 
 Notice that the `name` field in the `allFile` returns the same file names as the `parent` in the `allMdx`. This happens because when the transformer plugin creates a new `MDX` node from the `File` node, it allows us to access to the data of the parent `File` node via the `parent` field.
 
-有的数据获取很麻烦，或者需要自定义，这时我们可以自己给nodes添加数据项。
+有的数据获取很麻烦，或者需要自定义，这时我们可以自己给nodes添加数据项
 
 [gatsby-plugin-mdx | Gatsby (gatsbyjs.com)](https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/#extending-the-graphql-mdx-nodes)
 
